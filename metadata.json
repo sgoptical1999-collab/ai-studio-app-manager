@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio App Manager",
+  "description": "Manage all your Google AI Studio applications in one place—organize project folders, store source ZIPs, connect GitHub repositories, track Actions builds, and download or install APKs securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

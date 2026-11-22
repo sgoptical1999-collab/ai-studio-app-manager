@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AI Studio App Manager</string>
+    <string name="app_tagline">ALL YOUR AI STUDIO APPS IN ONE PLACE</string>
+    <string name="dashboard_subtitle">Manage, Organize &amp; Download Your AI Apps.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_my_apps">My Apps</string>
+    <string name="nav_apk_builds">APK Builds</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_settings">Settings</string>
+    <string name="no_apk_available_message">No APK available for this project. Please complete an Android APK build first.</string>
+    <string name="ai_studio_disclaimer">Google AI Studio does not expose a public API to list your private My Apps or directly download APKs. Open Google AI Studio in your browser, export your project ZIP or link its GitHub repository, and manage everything securely here.</string>
+    <string name="demo_data_badge">DEMO DATA</string>
+    <string name="aab_warning_message">This artifact contains an Android App Bundle (.aab), not an APK. Android App Bundles are designed for Google Play distribution and cannot be installed directly on a phone like an .apk file.</string>
+</resources>
